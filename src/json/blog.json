@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "title":"Sport",
+    "content":"Add content here"
+  },
+  {
+    "id":2,
+    "title":"Economy",
+    "content":"Add content here"
+  },
+  {
+    "id":3,
+    "title":"Arts",
+    "content":"Add content here"
+  }
+]
