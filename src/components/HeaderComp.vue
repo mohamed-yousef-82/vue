@@ -4,6 +4,7 @@
     <router-link to="/about" tag="span">About</router-link>
     <router-link to="/services" tag="span">Services</router-link>
     <router-link to="/blog" tag="span">Blog</router-link>
+    <router-link to="/test" tag="span">Test</router-link>
   </div>
 </template>
 <script>
